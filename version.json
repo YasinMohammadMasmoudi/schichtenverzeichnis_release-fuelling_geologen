@@ -1,6 +1,6 @@
 {
-  "build": 4,
-  "version": "1.0.3",
-  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-fuelling_geologen/releases/download/v1.0.3/schichtenverzeichnis.apk",
-  "notes": "Das Feld QR-Code entfällt. Zusatzangaben öffnen sich jetzt oben und bleiben stehen, wenn die Tastatur auf- oder zugeht. Eine neue Verfüllung ersetzt die vorherige in den Bemerkungen, eigener Text bleibt erhalten."
+  "build": 5,
+  "version": "1.0.4",
+  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-fuelling_geologen/releases/download/v1.0.4/schichtenverzeichnis.apk",
+  "notes": "Verfüllung: eine neue Auswahl ersetzt die vorherige jetzt auch dann, wenn direkt dahinter eigener Text steht."
 }
