@@ -1,6 +1,6 @@
 {
-  "build": 2,
-  "version": "1.0.1",
-  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-fuelling_geologen/releases/download/v1.0.1/schichtenverzeichnis.apk",
-  "notes": ""
+  "build": 3,
+  "version": "1.0.2",
+  "apk": "https://github.com/YasinMohammadMasmoudi/schichtenverzeichnis_release-fuelling_geologen/releases/download/v1.0.2/schichtenverzeichnis.apk",
+  "notes": "Das angetippte Feld bleibt jetzt über der Wortleiste sichtbar, auch bei offener Tastatur. Der Knopf „123\" bei Feld C entfällt."
 }
